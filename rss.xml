@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aperture]]></title>
         <description><![CDATA[Aperture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aperture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 23:01:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 23:07:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aperture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[T>I - HI-Z - CO-LAB FORTHCOMING by Co-Lab Recordings UK]]></title>
+            <description><![CDATA[<article><h1>T>I - HI-Z - CO-LAB FORTHCOMING by Co-Lab Recordings UK</h1><p>Forthcoming on T>I's brand new EP on Co-Lab early 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/216213eeef6e5845a1c47d6a364439552461b47c.jpg"></article>]]></description>
+            <link>https://soundcloud.com/co-lab-recordings-uk/ti-hi-z-co-lab-forthcoming</link>
+            <guid isPermaLink="false">279c8d84-0441-4b44-a681-bfb03d0c88ec</guid>
+            <pubDate>Wed, 17 Feb 2016 23:06:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/295e57dd-f23c-43aa-95cd-da5b1fa85d9b.jpg">]]></description>
-            <link>undefined11dbd842-90f9-4954-b380-8b2248f85e8d/index.html</link>
+            <link>https://thegrid.ai/aperture/11dbd842-90f9-4954-b380-8b2248f85e8d/index.html</link>
             <guid isPermaLink="false">11dbd842-90f9-4954-b380-8b2248f85e8d</guid>
             <pubDate>Wed, 17 Feb 2016 23:01:41 GMT</pubDate>
         </item>
