@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T00:53:15.206Z'
-dateModified: '2016-02-18T00:52:55.485Z'
+datePublished: '2016-02-18T00:58:35.343Z'
+dateModified: '2016-02-18T00:53:24.079Z'
 author:
   - name: concretejunglists
     url: 'https://www.instagram.com/concretejunglists'
@@ -24,14 +24,14 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: "Teaming up with my old accomplice Aperture to bring you the crown jewel of our subculture. We're releasing 50 pre-release tickets for the insane price of £8.50, general sale will be in March. The rules are this; there will be no half stepping, no wall hanging, you will brock out, your gun fingers will be ready and when the time comes for a rewind, you will be there to call it in. My fellow Junglists I will see you on the dance floor. 50 TICKETS AVAILABLE AT WWW.CONCRETEJUNGLISTS.COM NOW (link in bio) #drumandbass #concretejunglists #dnb #junglist"
+sourcePath: _posts/2016-02-18-teaming-up-with-my-old-accomplice-aperture-to-bring-you-the.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-sourcePath: _posts/2016-02-18-teaming-up-with-my-old-accomplice-aperture-to-bring-you-the.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
