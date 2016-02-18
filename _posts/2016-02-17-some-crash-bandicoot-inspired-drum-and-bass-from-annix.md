@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://nesthq.com'
-  name: Nest HQ
-  favicon: 'http://nesthq-live.com.s3.amazonaws.com/wp-content/uploads/2013/05/favicon.ico.gzip'
-  domain: nesthq.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://nesthq.com/annix-crash'
+inLanguage: en
+starred: false
 keywords:
   - annix
   - crash
@@ -18,17 +17,20 @@ keywords:
   - bandicoot
   - soundcloud
 description: 'Cheltenham, UK based drum & bass duo, Annix, are planning a new full length release with legendary imprint, Playaz. The upcoming album is called Forever, and one of our first glimpses of the release is a track called "Crash", which gives us an innovative groove inspired by the Crash Ba'
-inLanguage: en
+datePublished: '2016-02-18T00:13:56.304Z'
+dateModified: '2016-02-18T00:13:55.984Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://nesthq.com/annix-crash'
 title: 'Some Crash Bandicoot Inspired Drum & Bass from Annix'
-datePublished: '2016-02-17T23:47:51.747Z'
-dateModified: '2016-02-17T23:46:40.076Z'
 sourcePath: _posts/2016-02-17-some-crash-bandicoot-inspired-drum-and-bass-from-annix.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Nest HQ
+  domain: nesthq.com
+  url: 'http://nesthq.com'
+  favicon: 'http://nesthq-live.com.s3.amazonaws.com/wp-content/uploads/2013/05/favicon.ico.gzip'
 _context: 'http://schema.org'
 _type: MediaObject
 
