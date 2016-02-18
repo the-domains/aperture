@@ -17,8 +17,8 @@ keywords:
   - february
   - hype
 description: "After handing over the controls to Critical Music to give our new VOID soundsystem a proper work out we bring you something a little different. Dancefloor favourites Annix, the duo made up of Konichi & Decimal Bass, will be joined on the one's and two's by special guest T>I to launch their album \"Forever\"."
-datePublished: '2016-02-17T23:46:08.685Z'
-dateModified: '2016-02-17T23:30:33.201Z'
+datePublished: '2016-02-18T00:07:57.001Z'
+dateModified: '2016-02-17T23:46:18.061Z'
 author: []
 related: []
 app_links:
