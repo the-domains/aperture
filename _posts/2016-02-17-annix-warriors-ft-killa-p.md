@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Se5EKx8yszY&feature=youtu.be'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Annix continues their spree of ridiculous tunes from their upcoming Forever LP with "Warriors" featuring the grime don Killa P on the vocals. Ridiculous!'
+datePublished: '2016-02-18T00:08:06.844Z'
+dateModified: '2016-02-17T23:51:17.539Z'
 author:
   - name: UKF
     url: 'https://www.youtube.com/user/UKFMusic'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Annix continues their spree of ridiculous tunes from their upcoming Forever LP with "Warriors" featuring the grime don Killa P on the vocals. Ridiculous!'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Se5EKx8yszY&feature=youtu.be'
 title: Annix - Warriors (ft. Killa P)
-datePublished: '2016-02-17T23:51:10.288Z'
-dateModified: '2016-02-17T23:49:38.445Z'
 sourcePath: _posts/2016-02-17-annix-warriors-ft-killa-p.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
