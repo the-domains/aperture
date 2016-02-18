@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.eventbrite.co.uk/e/aperture-192-annix-ti-tickets-21423244501'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - february
   - hype
 description: "After handing over the controls to Critical Music to give our new VOID soundsystem a proper work out we bring you something a little different. Dancefloor favourites Annix, the duo made up of Konichi & Decimal Bass, will be joined on the one's and two's by special guest T>I to launch their album \"Forever\"."
-datePublished: '2016-02-18T00:07:57.001Z'
-dateModified: '2016-02-17T23:46:18.061Z'
+datePublished: '2016-02-18T00:12:49.776Z'
+dateModified: '2016-02-18T00:12:33.976Z'
 author: []
 related: []
 app_links:
@@ -30,7 +29,7 @@ app_links:
     type: android
     app_name: Eventbrite
     package: com.eventbrite.attendee
-title: 'Aperture 19.2 Annix & T>I'
+title: 'Tickets - Aperture 19.2 Annix & T>I'
 sourcePath: _posts/2016-02-17-aperture-192-annix-and-tgreateri.md
 published: true
 authors: []
@@ -39,6 +38,7 @@ publisher:
   domain: www.eventbrite.co.uk
   url: 'https://www.eventbrite.co.uk'
   favicon: 'https://cdn.evbstatic.com/s3-build/perm_001/e39cdf/django/images/icons/favicons/favicon.ico'
+url: tickets-aperture-192-annix-and-tgreateri/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
