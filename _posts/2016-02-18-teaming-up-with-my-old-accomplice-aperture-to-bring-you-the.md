@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T00:58:35.343Z'
-dateModified: '2016-02-18T00:53:24.079Z'
+datePublished: '2016-02-18T01:05:17.209Z'
+dateModified: '2016-02-18T01:03:32.729Z'
 author:
   - name: concretejunglists
     url: 'https://www.instagram.com/concretejunglists'
@@ -36,4 +36,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e204d4e-325a-4fba-8e61-7bcf0687e953.png)
 ![Teaming up with my old accomplice Aperture to bring you the crown jewel of our subculture&period; We're releasing 50 pre-release tickets for the insane price of £8&period;50&comma; general sale will be in March&period; The rules are this&semi; there will be no half stepping&comma; no wall hanging&comma; you will brock out&comma; your gun fingers will be ready and when the time comes for a rewind&comma; you will be there to call it in&period; My fellow Junglists I will see you on the dance floor&period; 50 TICKETS AVAILABLE AT WWW&period;CONCRETEJUNGLISTS&period;COM NOW &lpar;link in bio&rpar; &num;drumandbass &num;concretejunglists &num;dnb &num;junglist](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12724787_1662180084045739_1219136354_n.jpg?ig_cache_key=MTE4NjMwNzM5OTU3NjMwNDA3NQ%3D%3D.2)
