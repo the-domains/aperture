@@ -2,12 +2,13 @@ name: Aperture
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.3297
+title: Aperture
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73960401-1
   facebook: null
   twitter: null
 opengraph:
