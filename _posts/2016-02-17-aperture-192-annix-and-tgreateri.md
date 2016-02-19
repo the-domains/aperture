@@ -16,8 +16,8 @@ keywords:
   - february
   - hype
 description: "After handing over the controls to Critical Music to give our new VOID soundsystem a proper work out we bring you something a little different. Dancefloor favourites Annix, the duo made up of Konichi & Decimal Bass, will be joined on the one's and two's by special guest T>I to launch their album \"Forever\"."
-datePublished: '2016-02-18T00:40:13.272Z'
-dateModified: '2016-02-18T00:40:09.891Z'
+datePublished: '2016-02-19T18:44:51.078Z'
+dateModified: '2016-02-18T00:40:23.076Z'
 author: []
 related: []
 app_links:
@@ -43,4 +43,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Aperture 19&amp;period;2 Annix &amp; T&gt;I</h1><p>After handing over the controls to Critical Music to give our new VOID soundsystem a proper work out we bring you something a little different&amp;period; Dancefloor favourites Annix&amp;comma; the duo made up of Konichi &amp; Decimal Bass&amp;comma; will be joined on the one's and two's by special guest T&gt;I to launch their album "Forever"&amp;period;</p><img src="https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F18545695%252F104951075675%252F1%252Foriginal.jpg%3Frect%3D0%252C60%252C1920%252C960%26s%3D439f5cc353c49eb928c7a1d610022ee0?w=1000&amp;s=8fc92e189000f6555ca61fe17c20ec8e" /></article>
+<article style=""><h1>BUY TICKETS - Aperture 19.2 Annix &amp; T&gt;I</h1><p>After handing over the controls to Critical Music to give our new VOID soundsystem a proper work out we bring you something a little different. Dancefloor favourites Annix, the duo made up of Konichi &amp; Decimal Bass, will be joined on the one's and two's by special guest T&gt;I to launch their album "Forever".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7552b275fa6e8acc8eb37ae15f263cd0cab7a6e1.jpg" /></article>
