@@ -4,7 +4,7 @@
         <description><![CDATA[Aperture]]></description>
         <link>http://aperturednb.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 17:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 17:05:50 GMT</lastBuildDate>
         <atom:link href="http://aperturednb.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Next event]]></title>
@@ -12,6 +12,13 @@
             <link>http://aperturednb.co.uk/11dbd842-90f9-4954-b380-8b2248f85e8d/index.html</link>
             <guid isPermaLink="false">11dbd842-90f9-4954-b380-8b2248f85e8d</guid>
             <pubDate>Thu, 18 Feb 2016 00:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Well Good Things You Should Know About Dub Phizix]]></title>
+            <description><![CDATA[<article><h1>5 Well Good Things You Should Know About Dub Phizix</h1><p>Critics, crisps and crude animations: Dub Phizix shares his thoughts...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f97c5c5434344c9359a1f93a6d2fb3bf8243683.jpg"></article>]]></description>
+            <link>https://ukf.com/words/5-well-good-things-you-should-know-about-dub-phizix/14396</link>
+            <guid isPermaLink="false">48d5b246-90ba-433e-97cf-4918202273fb</guid>
+            <pubDate>Fri, 19 Feb 2016 17:05:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dub Phizix and Strategy - Buffalo Charge]]></title>
@@ -68,13 +75,6 @@
             <link>http://aperturednb.co.uk/sign-up/index.html</link>
             <guid isPermaLink="false">a972f6c3-3873-4b84-828f-bc07acadabe3</guid>
             <pubDate>Thu, 18 Feb 2016 00:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tickets - Aperture 19.2 Annix & T>I]]></title>
-            <description><![CDATA[<article><h1>Tickets - Aperture 19.2 Annix & T>I</h1><p>After handing over the controls to Critical Music to give our new VOID soundsystem a proper work out we bring you something a little different. Dancefloor favourites Annix, the duo made up of Konichi & Decimal Bass, will be joined on the one's and two's by special guest T>I to launch their album "Forever".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbf155962a141eda2f6daacc96ffc7f68fa8be01.jpg"></article>]]></description>
-            <link>http://aperturednb.co.uk/tickets-aperture-192-annix-and-tgreateri/index.html</link>
-            <guid isPermaLink="false">c27abe04-9dfe-4eb2-9aa6-6802dcf81cf5</guid>
-            <pubDate>Thu, 18 Feb 2016 00:40:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
