@@ -4,7 +4,7 @@
         <description><![CDATA[Aperture]]></description>
         <link>http://aperturednb.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 17:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 17:06:40 GMT</lastBuildDate>
         <atom:link href="http://aperturednb.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Next event]]></title>
@@ -12,6 +12,13 @@
             <link>http://aperturednb.co.uk/11dbd842-90f9-4954-b380-8b2248f85e8d/index.html</link>
             <guid isPermaLink="false">11dbd842-90f9-4954-b380-8b2248f85e8d</guid>
             <pubDate>Thu, 18 Feb 2016 00:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joker Of The Scene: Dub Phizix | Red Bull Music Academy Daily]]></title>
+            <description><![CDATA[<article><h1>Joker Of The Scene: Dub Phizix | Red Bull Music Academy Daily</h1><p>Spend enough time in England and you'll come to learn that there is more to the country's North-South divide than just economic and political differences. Northerners aren't afraid to point the finger at themselves and laugh. In Manchester, self-deprecation is an integral part of daily life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70261e35adc191eb27eb9c0b36596785d04dbf05.jpg"></article>]]></description>
+            <link>http://daily.redbullmusicacademy.com/2015/01/dub-phizix-interview</link>
+            <guid isPermaLink="false">0cd177bb-222d-42cf-b63e-97fd87ffe0cd</guid>
+            <pubDate>Fri, 19 Feb 2016 17:06:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NEWSFLASH: Dub Phizix Has Recorded FABRICLIVE 84 - fabric blog]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[5 Well Good Things You Should Know About Dub Phizix]]></title>
-            <description><![CDATA[<article><h1>5 Well Good Things You Should Know About Dub Phizix</h1><p>Critics, crisps and crude animations: Dub Phizix shares his thoughts...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f97c5c5434344c9359a1f93a6d2fb3bf8243683.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>5 Well Good Things You Should Know About Dub Phizix</h1><p>Critics, crisps and crude animations: Dub Phizix shares his thoughts...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f7401cba927880e46f76497b5aca86f3419b0a1.jpg"></article>]]></description>
             <link>https://ukf.com/words/5-well-good-things-you-should-know-about-dub-phizix/14396</link>
             <guid isPermaLink="false">48d5b246-90ba-433e-97cf-4918202273fb</guid>
             <pubDate>Fri, 19 Feb 2016 17:05:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/aperturefamily/annix-ti-promo-mix-erb</link>
             <guid isPermaLink="false">dbbc7b54-b644-4383-b6f8-7f96530fd3f3</guid>
             <pubDate>Wed, 17 Feb 2016 23:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some Crash Bandicoot Inspired Drum & Bass from Annix]]></title>
-            <description><![CDATA[<article><h1>Some Crash Bandicoot Inspired Drum & Bass from Annix</h1><p>Cheltenham, UK based drum & bass duo, Annix, are planning a new full length release with legendary imprint, Playaz. The upcoming album is called Forever, and one of our first glimpses of the release is a track called "Crash", which gives us an innovative groove inspired by the Crash Ba</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c77c7cceba2cd40858dd1a64d9d920de9e62690e.jpg"></article>]]></description>
-            <link>http://nesthq.com/annix-crash</link>
-            <guid isPermaLink="false">264bab3a-e570-4d8f-a5ed-fadb92356d1f</guid>
-            <pubDate>Thu, 18 Feb 2016 00:13:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
