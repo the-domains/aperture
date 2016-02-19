@@ -4,7 +4,7 @@
         <description><![CDATA[Aperture]]></description>
         <link>http://aperturednb.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 17:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 17:05:35 GMT</lastBuildDate>
         <atom:link href="http://aperturednb.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Next event]]></title>
@@ -12,6 +12,13 @@
             <link>http://aperturednb.co.uk/11dbd842-90f9-4954-b380-8b2248f85e8d/index.html</link>
             <guid isPermaLink="false">11dbd842-90f9-4954-b380-8b2248f85e8d</guid>
             <pubDate>Thu, 18 Feb 2016 00:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dub Phizix and Strategy - Buffalo Charge]]></title>
+            <description><![CDATA[<article><h1>Dub Phizix and Strategy - Buffalo Charge</h1><p>OUT NOW: https://senkasonic.bandcamp.com/track/buffalo-charge Get your Buffalo T-shirt here - https://senkasonic.bandcamp.com/merch/buffalo-charge-t-shirt Directed and produced by Dub Phizix and Strategy D.O.P - Alex Veitch - http://www.alexveitch.com Grip - Dane Duncan Editing - Strategy Additional editing and VFX - Dub Phizix Grading - Edit19 - http://www.edit19.com Thanks to John and Hayden Sigsworth at Midlist farm And thanks to Vintage Nick for driving and cos he's a G SenkaSonic - 2014</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b936b420ce109455b7366a0d5cea2ccce989fd7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=7fVK7atPvLQ</link>
+            <guid isPermaLink="false">c24f8ec6-b3f4-4e36-95c3-65eec005e35d</guid>
+            <pubDate>Fri, 19 Feb 2016 17:04:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dub Phizix & Skittles - I'm A Creator - OFFICIAL VIDEO]]></title>
@@ -68,13 +75,6 @@
             <link>http://aperturednb.co.uk/tickets-aperture-192-annix-and-tgreateri/index.html</link>
             <guid isPermaLink="false">c27abe04-9dfe-4eb2-9aa6-6802dcf81cf5</guid>
             <pubDate>Thu, 18 Feb 2016 00:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Annix - Forever]]></title>
-            <description><![CDATA[<article><h1>Annix - Forever</h1><p>When Annix's debut album 'Inception' came out back in 2013 it was one of the most hotly tipped album releases on the dnb calendar. Now Cheltenham duo Konichi and Decimal Bass return with a second album 'Forever' - which sees them a little older, wiser, but still as darn well talented.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d836b83c136d8a6a0c74272f2aa8329505ab1ae.jpg"></article>]]></description>
-            <link>http://playaz.co.uk/store/annix-forever/</link>
-            <guid isPermaLink="false">298f0d69-2d0c-40be-9e8e-06137fa66f83</guid>
-            <pubDate>Wed, 17 Feb 2016 23:07:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
