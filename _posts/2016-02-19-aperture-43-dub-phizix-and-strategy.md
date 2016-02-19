@@ -16,8 +16,8 @@ keywords:
   - bumma
   - '2016'
 description: '"This rap artist deserves a much better dnb producer! The minimal, basic, no originality beats really dont go with the great rhymes" - liquidjunglist "Andy wildy is a fap widda Marijuana Steppin un mi knee they cant swim up my Pirhanna Any time me Drunk me go Pee Dung a wronga If I eat no Money say whiny bovril torquer Lemmy dry fee hold up bank with hard banana Cheryl pretty whole tits panorama Money for gunfire , Terry Wogan want no drama, with hi bumma baby mamma, whoah..."'
-datePublished: '2016-02-19T18:33:09.619Z'
-dateModified: '2016-02-19T18:32:57.899Z'
+datePublished: '2016-02-19T18:39:02.705Z'
+dateModified: '2016-02-19T18:33:19.440Z'
 author: []
 related: []
 app_links:
