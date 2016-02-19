@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  name: Eventbrite
-  domain: www.eventbrite.co.uk
-  url: 'https://www.eventbrite.co.uk'
-  favicon: 'https://cdn.evbstatic.com/s3-build/perm_001/e39cdf/django/images/icons/favicons/favicon.ico'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: true
 keywords:
   - eventbrite
   - events
@@ -18,7 +16,10 @@ keywords:
   - bumma
   - '2016'
 description: '"This rap artist deserves a much better dnb producer! The minimal, basic, no originality beats really dont go with the great rhymes" - liquidjunglist "Andy wildy is a fap widda Marijuana Steppin un mi knee they cant swim up my Pirhanna Any time me Drunk me go Pee Dung a wronga If I eat no Money say whiny bovril torquer Lemmy dry fee hold up bank with hard banana Cheryl pretty whole tits panorama Money for gunfire , Terry Wogan want no drama, with hi bumma baby mamma, whoah..."'
-inLanguage: en
+datePublished: '2016-02-19T17:57:08.566Z'
+dateModified: '2016-02-19T17:55:51.280Z'
+author: []
+related: []
 app_links:
   - url: 'com-eventbrite-attendee://event/21831468510/?referrer=eiosurlxfbk'
     type: ios
@@ -28,17 +29,16 @@ app_links:
     type: android
     app_name: Eventbrite
     package: com.eventbrite.attendee
-isBasedOnUrl: 'https://www.eventbrite.co.uk/e/aperture-43-dub-phizix-strategy-tickets-21831468510'
-title: 'Aperture 4.3 Dub Phizix & Strategy'
-datePublished: '2016-02-19T17:55:49.614Z'
-dateModified: '2016-02-19T17:55:24.769Z'
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
+title: Next Event
 authors: []
+publisher:
+  name: Eventbrite
+  domain: www.eventbrite.co.uk
+  url: 'https://www.eventbrite.co.uk'
+  favicon: 'https://cdn.evbstatic.com/s3-build/perm_001/e39cdf/django/images/icons/favicons/favicon.ico'
 sourcePath: _posts/2016-02-19-aperture-43-dub-phizix-and-strategy.md
 published: true
+url: next-event/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
