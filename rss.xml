@@ -4,7 +4,7 @@
         <description><![CDATA[Aperture]]></description>
         <link>http://aperturednb.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 17:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 17:06:20 GMT</lastBuildDate>
         <atom:link href="http://aperturednb.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Next event]]></title>
@@ -12,6 +12,13 @@
             <link>http://aperturednb.co.uk/11dbd842-90f9-4954-b380-8b2248f85e8d/index.html</link>
             <guid isPermaLink="false">11dbd842-90f9-4954-b380-8b2248f85e8d</guid>
             <pubDate>Thu, 18 Feb 2016 00:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEWSFLASH: Dub Phizix Has Recorded FABRICLIVE 84 - fabric blog]]></title>
+            <description><![CDATA[<article><h1>NEWSFLASH: Dub Phizix Has Recorded FABRICLIVE 84 - fabric blog</h1><p>His music, described by Mixmag as 'essential material', has an irreverent edge, yet is deadly serious in its dancefloor approach, reflecting the character of the Manchester producer, born George Ovens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d46f798025fe11587028b9ace2b79e87ecb69b01.jpg"></article>]]></description>
+            <link>https://www.fabriclondon.com/blog/view/newsflash-dub-phizix-has-recorded-fabriclive-84</link>
+            <guid isPermaLink="false">f32c56a6-f4fa-4589-a42d-1fc56372d2cc</guid>
+            <pubDate>Fri, 19 Feb 2016 17:05:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Well Good Things You Should Know About Dub Phizix]]></title>
@@ -68,13 +75,6 @@
             <link>http://nesthq.com/annix-crash</link>
             <guid isPermaLink="false">264bab3a-e570-4d8f-a5ed-fadb92356d1f</guid>
             <pubDate>Thu, 18 Feb 2016 00:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sign up]]></title>
-            <description><![CDATA[<article><h1>Sign up</h1><p>Hey! Let us keep you up to date with the latest events, freshest mixes and some ace free downloads! We'll never share your details, and will never spam :) - promise!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8a5f46ab48aa5a7c4d4d2b8fedca762736e56d7.jpg"></article>]]></description>
-            <link>http://aperturednb.co.uk/sign-up/index.html</link>
-            <guid isPermaLink="false">a972f6c3-3873-4b84-828f-bc07acadabe3</guid>
-            <pubDate>Thu, 18 Feb 2016 00:24:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
