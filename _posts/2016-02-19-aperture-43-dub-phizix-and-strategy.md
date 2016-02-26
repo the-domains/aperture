@@ -16,8 +16,8 @@ keywords:
   - bumma
   - '2016'
 description: '"This rap artist deserves a much better dnb producer! The minimal, basic, no originality beats really dont go with the great rhymes" - liquidjunglist "Andy wildy is a fap widda Marijuana Steppin un mi knee they cant swim up my Pirhanna Any time me Drunk me go Pee Dung a wronga If I eat no Money say whiny bovril torquer Lemmy dry fee hold up bank with hard banana Cheryl pretty whole tits panorama Money for gunfire , Terry Wogan want no drama, with hi bumma baby mamma, whoah..."'
-datePublished: '2016-02-19T18:39:02.705Z'
-dateModified: '2016-02-19T18:33:19.440Z'
+datePublished: '2016-02-26T13:28:50.066Z'
+dateModified: '2016-02-26T13:17:02.545Z'
 author: []
 related: []
 app_links:
@@ -29,7 +29,7 @@ app_links:
     type: android
     app_name: Eventbrite
     package: com.eventbrite.attendee
-title: Next Event
+title: 'Next Event - Dub Phizix & Strategy - BUY TICKETS HERE'
 sourcePath: _posts/2016-02-19-aperture-43-dub-phizix-and-strategy.md
 published: true
 authors: []
